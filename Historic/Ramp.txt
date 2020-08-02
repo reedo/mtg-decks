@@ -1,7 +1,7 @@
 Deck
 2 Mirari's Wake (JUD) 139
 1 Uro, Titan of Nature's Wrath (THB) 229
-12 Forest (UST) 216
+18 Forest (UST) 216
 1 Lotus Field (M20) 249
 1 Karn, the Great Creator (WAR) 1
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
@@ -16,20 +16,16 @@ Deck
 1 Dryad Greenseeker (M19) 178
 1 Incubation Druid (RNA) 131
 1 Overgrown Battlement (JMP) 417
-2 Leafkin Druid (M20) 178
 2 Nissa's Triumph (WAR) 170
-1 Return to Nature (THB) 197
 2 Wilt (IKO) 176
 2 Temple Garden (GRN) 258
-4 Portcullis Vine (GRN) 142
+3 Portcullis Vine (GRN) 142
 2 Wall of Blossoms (JMP) 442
 1 Memorial to Unity (DAR) 245
 2 Thriving Grove (JMP) 34
-1 History of Benalia (DAR) 21
 1 Carnage Tyrant (XLN) 179
 1 Towering Titan (JMP) 31
 1 Kiora, Behemoth Beckoner (WAR) 232
-1 Gideon Blackblade (WAR) 13
 
 Sideboard
 2 Platinum Angel (M10) 218
