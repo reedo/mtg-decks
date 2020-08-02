@@ -1,0 +1,47 @@
+Deck
+2 Mirari's Wake (JUD) 139
+1 Uro, Titan of Nature's Wrath (THB) 229
+12 Forest (UST) 216
+1 Lotus Field (M20) 249
+1 Karn, the Great Creator (WAR) 1
+1 Ulamog, the Ceaseless Hunger (BFZ) 15
+1 Akroma's Memorial (M13) 200
+1 Pelakka Wurm (M19) 192
+1 Platinum Angel (M10) 218
+4 Tranquil Thicket (ONS) 326
+2 Llanowar Elves (M19) 314
+2 Llanowar Elves (DAR) 168
+4 Druid of the Cowl (M19) 177
+1 Explore (JMP) 393
+1 Dryad Greenseeker (M19) 178
+1 Incubation Druid (RNA) 131
+1 Overgrown Battlement (JMP) 417
+2 Leafkin Druid (M20) 178
+2 Nissa's Triumph (WAR) 170
+1 Return to Nature (THB) 197
+2 Wilt (IKO) 176
+2 Temple Garden (GRN) 258
+4 Portcullis Vine (GRN) 142
+2 Wall of Blossoms (JMP) 442
+1 Memorial to Unity (DAR) 245
+2 Thriving Grove (JMP) 34
+1 History of Benalia (DAR) 21
+1 Carnage Tyrant (XLN) 179
+1 Towering Titan (JMP) 31
+1 Kiora, Behemoth Beckoner (WAR) 232
+1 Gideon Blackblade (WAR) 13
+
+Sideboard
+2 Platinum Angel (M10) 218
+1 Crucible of Worlds (M19) 229
+1 Transmogrifying Wand (M19) 247
+1 Helm of the Host (DAR) 217
+2 Sigiled Sword of Valeron (M19) 244
+1 Dragon's Hoard (M19) 232
+1 Desecrated Tomb (M19) 230
+1 Steel Overseer (M20) 239
+1 Thran Temporal Gateway (DAR) 233
+1 Sorcerous Spyglass (ELD) 233
+1 Blackblade Reforged (DAR) 211
+1 Shadowspear (THB) 236
+1 Mox Amber (DAR) 224
