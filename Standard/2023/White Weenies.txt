@@ -1,22 +1,23 @@
 Deck
-4 Venom Connoisseur (SNC) 161
 2 Rumor Gatherer (SNC) 29
-3 Darling of the Masses (SNC) 181
+8 Forest (HBG) 307
 3 Hold for Ransom (SNC) 16
 3 Join the Dance (MID) 229
 2 Take to the Streets (SNC) 158
-2 Luxurious Libation (SNC) 152
-4 Gathering Throng (SNC) 13
+1 Elspeth Resplendent (SNC) 11
+4 A-High-Rise Sawjack (SNC) 150
 2 Citizen's Crowbar (SNC) 8
 1 In the Trenches (BRO) 8
-1 Adeline, Resplendent Cathar (MID) 1
-1 Wedding Announcement (VOW) 45
-1 Torens, Fist of the Angels (VOW) 249
+2 Wedding Announcement (VOW) 45
+1 Ajani, Sleeper Agent (DMU) 192
 1 Halo Fountain (SNC) 15
 4 Overgrown Farmland (MID) 265
-8 Plains (SNC) 263
-8 Forest (SNC) 271
+8 Plains (VOW) 398
 1 Botanical Plaza (SNC) 247
 2 A-Celebrity Fencer (SNC) 7
-3 A-Civil Servant (SNC) 176
+2 A-Civil Servant (SNC) 176
 4 Razorverge Thicket (ONE) 257
+1 Sanctuary Warden (SNC) 30
+2 A-Warm Welcome (SNC) 164
+2 Rope Line Attendant (Y22) 27
+4 Civic Gardener (SNC) 140
