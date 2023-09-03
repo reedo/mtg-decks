@@ -1,0 +1,62 @@
+Commander
+1 Inferno of the Star Mounts (AFR) 151
+
+Deck
+1 Ulamog, the Ceaseless Hunger (BFZ) 15
+1 Blackblade Reforged (DAR) 211
+1 Grafdigger's Cage (M20) 227
+1 Akroma's Memorial (M13) 200
+1 Crucible of Worlds (M19) 229
+1 Valakut Exploration (ZNR) 175
+1 Chandra's Spitfire (M20) 132
+1 Skyclave Geopede (ZNR) 163
+1 Shatterskull Smashing (ZNR) 161
+1 The Flame of Keld (DAR) 123
+1 Fire Prophecy (IKO) 116
+1 Thrill of Possibility (ELD) 146
+1 Tormenting Voice (ZNR) 172
+1 Glint-Horn Buccaneer (M20) 141
+1 Burning-Tree Vandal (RNA) 94
+1 Cavalier of Flame (M20) 125
+1 Chandra, Flame's Fury (M20) 294
+1 Karn, the Great Creator (WAR) 1
+1 Chandra, Acolyte of Flame (M20) 126
+1 Chandra, Novice Pyromancer (M20) 128
+1 Chandra's Regulator (M20) 131
+1 Dragonmaster Outcast (WWK) 81
+1 Runaway Steam-Kin (GRN) 115
+1 Robber of the Rich (ELD) 138
+1 Tectonic Giant (THB) 158
+1 Torbran, Thane of Red Fell (ELD) 147
+1 Drakuseth, Maw of Flames (M20) 136
+1 Lathliss, Dragon Queen (M19) 149
+1 Siege Dragon (ANB) 85
+1 Demanding Dragon (M19) 135
+1 Terror of the Peaks (M21) 164
+1 Fanatical Firebrand (RIX) 101
+1 Goblin Arsonist (M21) 147
+1 Shock (ANB) 84
+1 Lightning Strike (XLN) 149
+1 Bonecrusher Giant (ELD) 115
+1 Risk Factor (GRN) 113
+1 Shivan Fire (DAR) 142
+1 Goblin Oriflamme (JMP) 130
+1 Roiling Vortex (ZNR) 156
+1 Embercleave (ELD) 120
+1 Mox Amber (DAR) 224
+1 Shadowspear (THB) 236
+1 Diamond Mare (M19) 231
+1 Mind Stone (WTH) 153
+1 Arcane Encyclopedia (M19) 227
+1 Palladium Myr (M21) 234
+1 Ogre Battledriver (ANB) 80
+1 Two-Headed Giant (DAR) 147
+1 Cyclops Electromancer (WAR) 122
+1 Double Vision (M21) 142
+1 Fiery Intervention (DAR) 118
+1 Hellkite Whelp (GRN) 106
+42 Mountain (UST) 215
+1 Dreamstalker Manticore (THB) 131
+1 Basalt Ravager (KHM) 122
+1 Goblin Goon (JMP) 326
+1 Erratic Cyclops (GRN) 98
