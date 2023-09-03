@@ -1,0 +1,24 @@
+Deck
+1 Ashnod, Flesh Mechanist (BRO) 84
+1 Fallaji Antiquarian (Y23) 8
+2 Stormclaw Rager (MOM) 254
+1 Mishra, Claimed by Gix (BRO) 216
+1 Phyrexian Dragon Engine (BRO) 163
+1 Urabrask's Forge (ONE) 153
+1 Rankle and Torbran (MOM) 252
+1 Vraan, Executioner Thane (ONE) 114
+2 Sengir Connoisseur (DMU) 104
+2 Charforger (ONE) 199
+2 Corrupted Conviction (MOM) 98
+3 Testament Bearer (ONE) 111
+3 Sanitarium Skeleton (ANB) 57
+2 Ashnod's Intervention (BRO) 85
+3 Gixian Infiltrator (BRO) 98
+3 Final Flourish (MOM) 104
+3 Etched Familiar (MOM) 101
+3 Powerstone Fracture (BRO) 112
+1 Sulfurous Springs (DMU) 256
+4 Bloodfell Caves (MOM) 267
+4 Geothermal Bog (DMU) 247
+9 Swamp (DMU) 270
+7 Mountain (DMU) 272

@@ -1,0 +1,25 @@
+Deck
+2 Dragon Whelp (DMU) 120
+3 Epic Confrontation (BRO) 176
+1 Samut, Vizier of Naktamun (MAT) 45
+8 Mountain (BRO) 274
+8 Forest (BRO) 277
+1 Feldon, Ronom Excavator (BRO) 135
+1 Tomakul Phoenix (Y23) 11
+1 Migloz, Maze Crusher (ONE) 210
+1 Rampaging Raptor (MOM) 160
+1 Surrak and Goreclaw (MOM) 337
+1 Ogre Battledriver (ANB) 80
+2 Shivan Branch-Burner (MOM) 165
+3 Ilysian Caryatid (ANB) 98
+2 Volcanic Dragon (ANB) 88
+2 Colossal Growth (DMU) 158
+2 Sprouting Goblin (DMU) 145
+3 Viashino Branchrider (DMU) 150
+2 Furnace Strider (ONE) 133
+3 Cosmic Hunger (MOM) 182
+2 Kolaghan Warmonger (MAT) 17
+2 Ravenous Sailback (MOM) 202
+1 Copperline Gorge (ONE) 249
+4 Wooded Ridgeline (DMU) 260
+4 Rugged Highlands (MOM) 271

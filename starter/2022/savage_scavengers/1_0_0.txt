@@ -1,0 +1,25 @@
+Deck
+2 Diminished Returner (Y23) 9
+3 Wary Thespian (MOM) 215
+1 Glissa Sunslayer (ONE) 202
+1 Terror of Towashi (MOM) 331
+1 Gixian Recycler (Y23) 27
+1 Deathbloom Ritualist (BRO) 208
+1 Conduit of Worlds (ONE) 163
+1 Sauron, the Necromancer (LTR) 106
+2 Cult Conscript (DMU) 88
+2 Go for the Throat (BRO) 102
+2 Overwhelming Remorse (BRO) 110
+2 Phyrexian Gargantua (MOM) 121
+3 Vanquish the Weak (MOM) 129
+3 Ravenous Gigamole (BRO) 113
+2 Burrowing Razormaw (BRO) 173
+3 Blanchwood Prowler (BRO) 172
+2 Urborg Repossession (DMU) 114
+2 Skyfisher Spider (BRO) 221
+1 Llanowar Wastes (BRO) 264
+4 Haunted Mire (DMU) 248
+1 Shadow of the Enemy (LTR) 107
+4 Jungle Hollow (MOM) 270
+8 Swamp (BRO) 273
+8 Forest (BRO) 276
